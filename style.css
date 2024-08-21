@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(2, 0, 134);
+    color: #ffffff;
+
+}
+.titulo{
+    display: flex;
+}
+ 
+
+#manuel-gomes {
+    width: 500px;
+}
+#papel{
+    width: 500px;
+}
+#b{
+    width: 500px;
+}
